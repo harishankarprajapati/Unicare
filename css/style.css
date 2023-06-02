@@ -1,0 +1,673 @@
+@font-face {
+    font-family: 'Brittany Signature';
+    src: url(../font/brittany_signature/BrittanySignature.ttf);
+}
+
+.sec-mai-head {
+    background-color: #000;
+    padding: 10px 0px;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #fff;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: no-repeat center center;
+    background-size: 100% 100%;
+    background: #fff;
+}
+
+a.nav-link.sec-li-small2 {
+    padding: 4px 20px !important;
+}
+
+a.nav-link.sec-li-small2 {
+    color: #fff !important;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.sec-li-small3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFFFFF !important;
+    border-left: 1px solid #E0AD56;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.sec-cont-disp {
+    display: flex;
+    padding-bottom: 20px;
+}
+
+.sec-cont-head {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    padding: 0px 10px 0px 0px;
+    text-align: right;
+    text-transform: uppercase !important;
+    text-decoration: underline;
+    text-decoration-color: #E0AD56;
+    color: #FFFFFF !important;
+
+}
+
+.sec-ul-display {
+    flex-direction: column;
+    align-items: end;
+
+}
+
+.sec-slider-img {
+    width: 100%;
+    height: 600px;
+}
+
+.sec-slider-h {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 100%;
+    text-align: center;
+    color: #202031;
+}
+
+.sec-slider-h2 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 180px;
+    line-height: 115.8%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #202031;
+}
+
+.sec-slider-p {
+    font-family: 'Brittany Signature';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    text-align: center;
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: -60px;
+
+}
+
+.sec-slider-p2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    color: #202031;
+
+}
+
+.sec-slider-btn {
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    padding: 22px 40px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 112.8%;
+    color: #000000;
+}
+
+.sec-slider-btn:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.sec-btn-p {
+    padding: 45px 20px;
+}
+
+/* slider-arrow */
+.carousel-control-prev-icon {
+    background-image: url(../images/arrow-left.png) !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url(../images/arrow-right.png) !important;
+}
+
+.carousel-control-prev-icon:hover {
+    background-image: url(../images/arrow-left-hover.png) !important;
+}
+
+.carousel-control-next-icon:hover {
+    background-image: url(../images/arrow-right-hover.png) !important;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    display: inline-block;
+    width: 100px !important;
+    height: 100px !important;
+    background: transparent no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 85px !important;
+    opacity: 1 !important;
+    color: #fff;
+    text-align: center;
+    opacity: .5;
+}
+
+.carousel-indicators {
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+    left: 0px;
+    z-index: 15;
+    display: flex;
+    justify-content: center;
+    padding-left: 0px;
+    margin-right: 15%;
+    margin-left: 19%;
+    list-style: none;
+    display: none !important;
+}
+
+/* slider-arrow */
+
+/* all-padding */
+.sec-all-p {
+    padding: 60px 0px;
+}
+
+.sec-extr-h {
+    font-family: 'Playball';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 125px;
+    text-align: center;
+    color: #F2F2F2;
+
+}
+
+.sec-extr-p {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 144%;
+    text-align: center;
+    color: #202031;
+    margin-top: -80px;
+}
+
+.sec-btn-pppp {
+    padding: 50px 0px;
+}
+
+.sec-extta-btn {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 112.8%;
+    color: #202031;
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    padding: 15px 30px;
+}
+
+.sec-extta-btn:hover {
+    color: #202031;
+    text-decoration: none;
+}
+
+
+
+.sec-about-bgg {
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    padding: 385px 30px 60px 30px;
+    width: 64%;
+    margin-left: 397px;
+    margin-top: -366px;
+}
+
+.sec-more-a-p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 187.3%;
+    color: #000000;
+}
+
+.sec-about-caa {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 164%;
+    color: #000000;
+}
+
+.sec-about-caa:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.sec-abot-btnn {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 112.8%;
+    color: #FFFFFF;
+    background: #000000;
+    padding: 15px 30px;
+}
+
+.sec-abot-btnn:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.sec-btn-pppp222 {
+    padding: 20px 0px;
+}
+
+.sec-our-mai-h {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 164%;
+    text-align: center;
+    color: #202031;
+}
+
+.our-h-sec {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 164%;
+    color: #202031;
+
+}
+
+.our-p-sec {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    color: #000000;
+}
+
+.sec-boo-slid-h {
+    font-family: 'Playball';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 38px;
+    text-align: center;
+    color: #E0AD56;
+}
+
+.sec-book-slid-h {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 164%;
+    color: #202031;
+}
+
+.sec-maib-slide-book {
+    padding: 20px 0px;
+    box-shadow: 0px 0px 10px 0px #dddddd;
+    text-align: center;
+}
+
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    -webkit-transform: translate3d(0, 0, 0);
+    padding: 20px !important;
+}
+
+.sec-book-btn-padd {
+    padding: 20px 0px;
+    text-align: right;
+}
+
+.sec-book-btn {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 112.8%;
+    color: #000000;
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    padding: 15px 30px;
+}
+
+.sec-book-btn:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.owl-theme .owl-dots .owl-dot.active span {
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%) !important;
+    width: 20px;
+    height: 20px;
+    padding-top: 10px !important;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    width: 10px;
+    height: 10px;
+    margin: 5px 7px;
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity 200ms ease;
+    border-radius: 30px;
+}
+
+.sec-polt-bg {
+    background: #F2F2F2;
+    padding-top: 60px;
+}
+
+/* GALLERY */
+
+.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.gallery-item {
+    flex-basis: 32.7%;
+    margin-bottom: 6px;
+    cursor: pointer;
+}
+
+.gallery-item:hover {
+    opacity: 1;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gallery-content {
+    font-size: .8em;
+}
+
+.lightbox {
+    position: fixed;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    top: 0;
+    left: 0;
+}
+
+.lightbox-content {
+    position: relative;
+    width: 70%;
+    height: 70%;
+    margin: 5% auto;
+    text-align: center;
+}
+
+.lightbox-content img {
+    border-radius: 7px;
+    box-shadow: 0 0 3px 0 rgba(225, 225, 225, .25);
+    width: 50%;
+    height: auto;
+    margin: 0px;
+    object-fit: cover;
+}
+
+.lightbox-prev,
+.lightbox-next {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 7px;
+    top: 45%;
+    cursor: pointer;
+}
+
+.lightbox-prev {
+    left: 0;
+}
+
+.lightbox-next {
+    right: 0;
+}
+
+.lightbox-prev:hover,
+.lightbox-next:hover {
+    opacity: .8;
+}
+
+/* gallery-end */
+.sec-gallery-btn {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 112.8%;
+    color: #000000;
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    padding: 15px 30px;
+}
+
+.sec-gallery-btn-pad {
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.sec-gallery-btn:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.sec-teab-p {
+    font-family: 'Playball';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    padding-top: 10px;
+    margin: 0px;
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.sec-teab-h {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 164%;
+    color: #202031;
+
+}
+
+/*  */
+#quote-carousel {
+    padding: 0 10px 30px 10px;
+}
+
+#quote-carousel .carousel-control {
+    background: none;
+    color: #CACACA;
+    font-size: 2.3em;
+    text-shadow: none;
+    margin-top: 30px;
+}
+
+#quote-carousel .carousel-indicators {
+    position: relative;
+    right: 50%;
+    top: auto;
+    bottom: 0px;
+    margin-top: -60px;
+    margin-right: -19px;
+    display: block !important;
+}
+
+#quote-carousel .carousel-indicators li {
+    width: 75px;
+    height: 75px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    opacity: 1;
+    overflow: hidden;
+    transition: all .4s ease-in;
+    vertical-align: middle;
+}
+
+#quote-carousel .carousel-indicators .active {
+    width: 100px;
+    height: 100px;
+    opacity: 1;
+    transition: all .2s;
+}
+
+.item blockquote {
+    border-left: none;
+    margin: 0;
+}
+
+.item blockquote p:before {
+    content: "\f10d";
+    font-family: 'Fontawesome';
+    float: left;
+    margin-right: 10px;
+}
+
+.sec-test-bgg {
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    padding: 0px 0px 80px 0px;
+    height: 300px;
+}
+
+blockquote p {
+    color: #fff;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 170%;
+    padding-top: 20px;
+}
+
+.sec-insta-bgg {
+    background: linear-gradient(60.5deg, #323232 23%, #000000 95.35%);
+    padding: 40px;
+}
+
+.sec-insta-h {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 127.3%;
+    color: #FFFFFF;
+
+}
+
+.sec-insta-p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.155em;
+    color: #FFFFFF;
+}
+
+.sec-insta-h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+.sec-pade-icon{
+    padding-top: 10px;
+}
+.sec-icon-fot{
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    color: #000;
+    font-size: 20px;
+    padding: 10px;
+}
+.eapps-instagram-feed-title {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left !important;
+    line-height: 32px;
+    padding: 24px 10px;
+    color: #E0AD56;
+}
+#eapps-instagram-feed-1 a, #eapps-instagram-feed-popup-1 a {
+    text-decoration: none;
+    color: #E0AD56 !important;
+    margin: 0;
+}
+.sec-footer-bgg{
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    padding: 40px;
+}

@@ -671,3 +671,6 @@ blockquote p {
     background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
     padding: 40px;
 }
+.navbar-brand{
+    padding: 0px;
+}

@@ -645,15 +645,18 @@ blockquote p {
     color: #FFFFFF;
 
 }
-.sec-pade-icon{
+
+.sec-pade-icon {
     padding-top: 10px;
 }
-.sec-icon-fot{
+
+.sec-icon-fot {
     background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
     color: #000;
     font-size: 20px;
     padding: 10px;
 }
+
 .eapps-instagram-feed-title {
     font-size: 24px;
     font-weight: 600;
@@ -662,15 +665,79 @@ blockquote p {
     padding: 24px 10px;
     color: #E0AD56;
 }
-#eapps-instagram-feed-1 a, #eapps-instagram-feed-popup-1 a {
+
+.sec-imh-img {
+    margin-left: 100px;
+}
+
+#eapps-instagram-feed-1 a,
+#eapps-instagram-feed-popup-1 a {
     text-decoration: none;
     color: #E0AD56 !important;
     margin: 0;
 }
-.sec-footer-bgg{
+
+.sec-footer-bgg {
     background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
     padding: 40px;
 }
-.navbar-brand{
+
+.navbar-brand {
     padding: 0px;
+}
+
+.sec-footer-hh {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 127.3%;
+    color: #000000;
+}
+
+.sec-hrr {
+    margin: 10px 0px !important;
+    border: 1px solid #000;
+    opacity: 1;
+    width: 10%;
+}
+
+.sec-footer-ppp {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.sec-copy-bgg {
+    background-color: #000;
+    padding: 30px 20px;
+    border-bottom: 1px solid #444444;
+}
+
+.sec-copy-p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin: 0;
+}
+.sec-footer-fle
+{
+    display: flex;
+
+}
+.sec-copy-p2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 20px;
 }

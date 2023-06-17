@@ -726,11 +726,12 @@ blockquote p {
     color: #FFFFFF;
     margin: 0;
 }
-.sec-footer-fle
-{
+
+.sec-footer-fle {
     display: flex;
 
 }
+
 .sec-copy-p2 {
     font-family: 'Poppins';
     font-style: normal;
@@ -740,4 +741,331 @@ blockquote p {
     color: #FFFFFF;
     margin: 0;
     padding: 20px;
+}
+
+/* about */
+.sec-about-bggg {
+    background-image: url(../images/about-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0px;
+
+}
+
+.sec-abbb-hh {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 115.8%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #202031;
+}
+
+.sec-abab-pp {
+    font-family: 'Brittany Signature';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 100%;
+    text-align: center;
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding: 55px 0px;
+    margin-top: -97px;
+    position: relative;
+    z-index: 10;
+
+}
+
+.sec-stor-padd {
+    padding: 80px 0px;
+}
+
+.sec-stor-padd2 {
+    padding: 0px 0px 80px 0px;
+    text-align: right;
+}
+
+.sec-stoy-p {
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 164%;
+    text-align: right;
+    color: #202031;
+    position: relative;
+    z-index: 10;
+}
+
+.sec-stoy-h {
+    font-family: 'Playball';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 250px;
+    line-height: 312px;
+    text-align: center;
+    color: #F2F2F2;
+    margin-top: -200px;
+}
+
+.sec-col-ppp {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 187.3%;
+    color: #000000;
+}
+
+.sec-valu-bgg {
+    background: #F2F2F2;
+    padding: 50px 0px 70px 0px;
+}
+
+.sec-valu-hh {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 164%;
+    text-align: center;
+    color: #202031;
+}
+
+.secdiplay-valu {
+    display: flex;
+}
+
+.sec-five-pp {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 134.1%;
+    text-align: center;
+    color: #000000;
+    padding-top: 10px;
+}
+
+.sec-team-ppp {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 135%;
+    text-align: center;
+    color: #202031;
+    position: relative;
+    z-index: 10;
+}
+
+.sec-team-hhh {
+    font-family: 'Playball';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 250px;
+    line-height: 312px;
+    text-align: center;
+    color: #F2F2F2;
+    margin-top: -240px;
+}
+
+.sec-team-bggg-padd {
+    padding: 60px 0px;
+}
+
+/* Portfolio */
+.sec-port-bggg {
+    background-image: url(../images/Portfolio-bggg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0px;
+
+}
+
+.sec-port-pading {
+    padding: 60px 0px;
+}
+
+
+
+/* -------------Services-page----------------- */
+.sec-come-h {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 76px;
+    text-align: center;
+    color: #000000;
+    padding-top: 30px;
+}
+
+
+.sec-btn-margin {
+    margin-top: 21px;
+}
+
+label {
+    font-family: 'Constantia';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.form-control {
+    font-family: 'Nunito' !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+    color: #000000 !important;
+}
+
+.sec-ser-hh {
+    font-family: 'Constantia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+}
+
+.sec-erv-book {
+    padding: 60px 0px;
+}
+
+.sec-bord-serv {
+    border-bottom: 1px solid #DCDCDC;
+    padding: 20px 0px 0px 0px;
+}
+
+.sec-sev-book-h {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 367.5%;
+    color: #000000;
+    margin: 0;
+}
+
+.sec-sev-book-p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 368%;
+    margin: 0;
+    text-align: center;
+    color: #898989;
+}
+
+.sec-menu-btn22 {
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #000;
+    border-radius: 0;
+    border: 0;
+    padding: 15px 30px;
+}
+
+.sec-menu-btn22:hover {
+    background: linear-gradient(180deg, #C18C43 0%, #EDC36A 100%);
+    color: #000 !important;
+}
+
+.sec-bord-serv2 {
+    border-bottom: 1px solid #DCDCDC;
+    padding-top: 5px;
+}
+
+.form-control {
+    font-family: 'Nunito' !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+    color: #000000 !important;
+}
+
+.sec-menu-btn2 {
+    background: linear-gradient(180deg, #EDC36A 0%, #C18C43 100%);
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+    padding: 15px 30px;
+    border: none;
+}
+
+.sec-menu-btn2:hover {
+    background: linear-gradient(180deg, #C18C43 0%, #EDC36A 100%);
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000 !important;
+    padding: 15px 30px;
+    border: none;
+}
+
+select#inputState , input {
+    height: 47px !important;
+}
+
+/* contact */
+.sec-cont-hh {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 164%;
+    color: #202031;
+}
+
+.sec-cont-pp {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+
+.seccont-add-h {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.seccont-add-p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+.sec-contact-padding{
+    padding: 60px 0px;
 }

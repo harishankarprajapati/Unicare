@@ -7,7 +7,7 @@
     .container-md,
     .container-sm,
     .container-xl {
-        min-width: 1400px !important;
+        min-width: 1500px !important;
     }
 
 }
@@ -74,7 +74,112 @@
         height: 60%;
         margin: 15% auto;
     }
+    .sec-footer-fle {
+        display: block;
+    }
+.sec-about-bgg {
+    padding: 30px 10px 30px 10px;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: -0px;
 }
+.sec-imh-img {
+    margin-left: 0px;
+}
+.sec-extr-h {
+    font-size: 40px;
+    line-height: 45px;
+}
+.sec-our-mai-h {
+    font-size: 35px;
+}
+.sec-boo-slid-h {
+    font-size: 34px;
+}
+.footer-ww-img{
+    width: 100%;
+}
+.sec-extr-p {
+    font-size: 22px;
+}
+.sec-all-p {
+    padding: 5px 0px;
+}
+.sec-about-caa {
+    font-size: 20px;
+}
+.our-h-sec {
+    font-size: 25px;
+}
+.our-p-sec {
+    font-size: 16px;
+}
+.sec-ov-img {
+    text-align: center;
+}
+.sec-book-slid-h {
+    font-size: 15px;
+}
+.sec-book-btn {
+    font-size: 14px;
+    padding: 10px 15px;
+    margin-right: 10px;
+}
+.sec-maib-slide-book {
+    padding: 3px 0px;
+    width: 85%;
+}
+.sec-more-a-p {
+    font-size: 16px;
+}
+.sec-polt-bg {
+    padding-top: 20px;
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 85%;
+}
+blockquote p {
+    font-size: 13px;
+}
+#quote-carousel .carousel-indicators li {
+    width: 25px !important;
+    height: 25px !important;
+}
+.sec-insta-h {
+    font-size: 40px;
+}
+.sec-insta-p {
+    font-size: 15px;
+}
+.eapps-instagram-feed-title {
+    font-size: 19px;
+}
+.sec-insta-bgg , .sec-footer-bgg {
+    padding: 10px;
+}
+#quote-carousel {
+    padding: 0px 0px 30px 0px;
+}
+.sec-test-bgg {
+    padding: 0px 0px 80px 0px;
+    height: auto;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width: 480px) {
     .gallery-item {

@@ -101,6 +101,10 @@
 }
 .sec-extr-p {
     font-size: 22px;
+    padding: 0px 5px;
+}
+br {
+    display: none;
 }
 .sec-all-p {
     padding: 5px 0px;

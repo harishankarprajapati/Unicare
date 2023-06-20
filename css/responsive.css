@@ -220,6 +220,29 @@ blockquote p {
 .sec-team-hhh{
     display: none;
 }
+.sec-come-h {
+    font-size: 38px;
+    line-height: 46px;
+    padding-top: 5px !important;
+}
+.sec-ser-hh {
+    font-size: 17px;
+    line-height: 25px;
+}
+.sec-sev-book-h {
+    font-size: 16px;
+    line-height: 25px;
+}
+.col-lg-3.sec-cent-c {
+    text-align: center;
+}
+.sec-sev-book-p {
+    font-size: 20px;
+    line-height: 25px;
+}
+.sec-erv-book {
+    padding: 20px 0px;
+}
 }
 
 

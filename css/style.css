@@ -1069,11 +1069,7 @@ select#inputState , input {
 .sec-contact-padding{
     padding: 60px 0px;
 }
-.container:before, .container:after {
-    display: table;
-    content: " ";
-    display: none;
-}
+
 .navbar:before, .navbar:after {
     display: table;
     content: " ";

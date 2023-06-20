@@ -165,6 +165,61 @@ blockquote p {
     padding: 0px 0px 80px 0px;
     height: auto;
 }
+.sec-abbb-hh {
+    font-size: 50px;
+}
+.sec-abab-pp {
+    font-size: 60px;
+}
+.sec-stoy-h {
+    font-size: 65px;
+    display: none;
+}
+.sec-stoy-p {
+    font-size: 50px;
+    text-align: center;
+}
+.sec-stor-padd {
+    padding: 20px 0px;
+}
+.sec-col-ppp {
+    padding: 0px 10px;
+    font-size: 17px;
+}
+.container.sec-stor-padd2 img {
+    width: 100%;
+    padding: 10px;
+}
+.sec-stor-padd2 {
+    padding: 0px 0px 40px 0px;
+    text-align: center;
+}
+.sec-valu-bgg {
+    padding: 20px 0px 20px 0px;
+}
+.sec-valu-hh {
+    font-size: 38px;
+    margin: 0;
+}
+.secdiplay-valu {
+    display: block;
+}
+.sec-aall-img img {
+    padding-top: 25px;
+}
+.sec-five-pp {
+    font-size: 20px;
+}
+.sec-team-bggg-padd {
+    padding: 20px 0px;
+}
+.sec-team-ppp {
+    font-size: 35px;
+
+}
+.sec-team-hhh{
+    display: none;
+}
 }
 
 
